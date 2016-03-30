@@ -1,6 +1,7 @@
 build:
   image: ubuntu
   commands:
-    - ls
+    - ls -la
     - pwd
     - mount
+    - env
