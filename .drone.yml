@@ -4,4 +4,3 @@ build:
     - ls
     - pwd
     - mount
-
